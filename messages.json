@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-06T15:12:03.002Z",
+      "lastSeen": "2025-10-06T15:12:12.748Z",
       "isOnline": true
     }
   },
@@ -99,8 +99,16 @@
         "text": "Test",
         "time": "2025-10-06T15:02:06.590Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgf9rs246uoqi0ayz72",
+        "from": "[DEV] Sosochka",
+        "to": "[BOT] > WayPoint",
+        "text": "Test",
+        "time": "2025-10-06T15:12:12.748Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-06T15:12:03.033Z"
+  "lastUpdate": "2025-10-06T15:12:12.797Z"
 }
