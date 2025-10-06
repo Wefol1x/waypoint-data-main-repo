@@ -2,7 +2,7 @@
   "users": {
     "[BOT] > WayPoint": {
       "name": "[BOT] > WayPoint",
-      "lastSeen": "2025-10-06T11:52:17.563Z",
+      "lastSeen": "2025-10-06T11:52:44.360Z",
       "isOnline": true
     }
   },
@@ -15,8 +15,16 @@
         "text": "/start server=up $host>none [underline]",
         "time": "2025-10-06T11:36:05.362Z",
         "isGlobal": true
+      },
+      {
+        "id": "mgf2n96nfp9fpw8bwm9",
+        "from": "[BOT] > WayPoint",
+        "to": null,
+        "text": "/start ctl WayPoint",
+        "time": "2025-10-06T11:52:44.359Z",
+        "isGlobal": true
       }
     ]
   },
-  "lastUpdate": "2025-10-06T11:52:17.587Z"
+  "lastUpdate": "2025-10-06T11:52:44.392Z"
 }
