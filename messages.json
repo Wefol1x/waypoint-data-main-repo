@@ -2,7 +2,7 @@
   "users": {
     "[BOT] > WayPoint": {
       "name": "[BOT] > WayPoint",
-      "lastSeen": "2025-10-06T11:52:45.398Z",
+      "lastSeen": "2025-10-06T11:53:04.486Z",
       "isOnline": true
     }
   },
@@ -23,8 +23,16 @@
         "text": "/start ctl WayPoint",
         "time": "2025-10-06T11:52:44.359Z",
         "isGlobal": true
+      },
+      {
+        "id": "mgf2nopxfk4uhmrumsk",
+        "from": "[BOT] > WayPoint",
+        "to": null,
+        "text": "Messag e\"Форум запущен!\"",
+        "time": "2025-10-06T11:53:04.486Z",
+        "isGlobal": true
       }
     ]
   },
-  "lastUpdate": "2025-10-06T11:52:45.418Z"
+  "lastUpdate": "2025-10-06T11:53:04.508Z"
 }
