@@ -1,7 +1,22 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "[BOT] > WayPoint": {
+      "name": "[BOT] > WayPoint",
+      "lastSeen": "2025-10-06T11:36:05.362Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-10-06T11:35:09.630Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mgf21ucq8mundkxsd47",
+        "from": "[BOT] > WayPoint",
+        "to": null,
+        "text": "/start server=up $host>none [underline]",
+        "time": "2025-10-06T11:36:05.362Z",
+        "isGlobal": true
+      }
+    ]
+  },
+  "lastUpdate": "2025-10-06T11:36:05.391Z"
 }
