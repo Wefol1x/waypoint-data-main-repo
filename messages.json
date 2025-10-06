@@ -2,7 +2,7 @@
   "users": {
     "[BOT] > WayPoint": {
       "name": "[BOT] > WayPoint",
-      "lastSeen": "2025-10-06T15:12:45.428Z",
+      "lastSeen": "2025-10-06T16:25:17.332Z",
       "isOnline": true
     },
     "Test": {
@@ -115,8 +115,16 @@
         "text": "Test",
         "time": "2025-10-06T15:12:20.179Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgfcdr81dccoybvf4ps",
+        "from": "[BOT] > WayPoint",
+        "to": "[DEV] Sosochka",
+        "text": "Test2",
+        "time": "2025-10-06T16:25:17.329Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-06T15:15:35.235Z"
+  "lastUpdate": "2025-10-06T16:25:17.346Z"
 }
