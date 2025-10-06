@@ -4,6 +4,11 @@
       "name": "[BOT] > WayPoint",
       "lastSeen": "2025-10-06T11:53:15.469Z",
       "isOnline": true
+    },
+    "Test": {
+      "name": "Test",
+      "lastSeen": "2025-10-06T11:55:29.668Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -31,8 +36,16 @@
         "text": "Messag e\"Форум запущен!\"",
         "time": "2025-10-06T11:53:04.486Z",
         "isGlobal": true
+      },
+      {
+        "id": "mgf2qsqonrr1oqzqzri",
+        "from": "Test",
+        "to": null,
+        "text": "Test",
+        "time": "2025-10-06T11:55:29.664Z",
+        "isGlobal": true
       }
     ]
   },
-  "lastUpdate": "2025-10-06T11:53:15.519Z"
+  "lastUpdate": "2025-10-06T11:55:29.720Z"
 }
