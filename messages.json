@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-07T12:11:10.035Z",
+      "lastSeen": "2025-10-07T12:11:14.723Z",
       "isOnline": true
     }
   },
@@ -218,8 +218,16 @@
         "text": "Хз чо делать уже",
         "time": "2025-10-07T12:09:24.267Z",
         "isGlobal": false
+      },
+      {
+        "id": "mggiqwmb3ipg2d3xqkn",
+        "from": "FlamingOxygen",
+        "to": "[DEV] Sosochka",
+        "text": "Да не, сам же видишь что нормально не обновляется даже в ручную, аж перезаходить приходится",
+        "time": "2025-10-07T12:11:14.723Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:11:10.045Z"
+  "lastUpdate": "2025-10-07T12:11:14.737Z"
 }
