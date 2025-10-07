@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-07T12:06:36.763Z",
+      "lastSeen": "2025-10-07T12:06:48.979Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -178,8 +178,16 @@
         "text": "Вроде норм",
         "time": "2025-10-07T12:01:41.397Z",
         "isGlobal": false
+      },
+      {
+        "id": "mggil7ki5wb7dio276",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Кстати, карту юмани мне уже по почте отправили. Где то в 20 числах придет)",
+        "time": "2025-10-07T12:06:48.979Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:06:36.792Z"
+  "lastUpdate": "2025-10-07T12:06:49.034Z"
 }
