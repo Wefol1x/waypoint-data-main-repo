@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-07T12:01:36.460Z",
+      "lastSeen": "2025-10-07T12:01:41.397Z",
       "isOnline": true
     }
   },
@@ -141,8 +141,16 @@
         "text": "Чо, общаться здесь можно?",
         "time": "2025-10-07T12:01:36.459Z",
         "isGlobal": false
+      },
+      {
+        "id": "mggiem8l6pinqtydbsk",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Вроде норм",
+        "time": "2025-10-07T12:01:41.397Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:01:36.488Z"
+  "lastUpdate": "2025-10-07T12:01:41.437Z"
 }
