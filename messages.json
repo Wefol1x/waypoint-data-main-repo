@@ -14,6 +14,11 @@
       "name": "[DEV] Sosochka",
       "lastSeen": "2025-10-07T12:02:24.531Z",
       "isOnline": true
+    },
+    "FlamingOxygen": {
+      "name": "FlamingOxygen",
+      "lastSeen": "2025-10-07T12:03:34.533Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -89,6 +94,14 @@
         "text": "Когда мы выпустим обновление, сервера будут сброшены",
         "time": "2025-10-07T12:02:09.831Z",
         "isGlobal": true
+      },
+      {
+        "id": "mggih1iuxogkqkundp",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Ясно",
+        "time": "2025-10-07T12:03:34.518Z",
+        "isGlobal": true
       }
     ],
     "[BOT] > WayPoint_[DEV] Sosochka": [
@@ -160,5 +173,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:02:24.548Z"
+  "lastUpdate": "2025-10-07T12:03:34.542Z"
 }
