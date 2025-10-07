@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-07T12:01:54.538Z",
+      "lastSeen": "2025-10-07T12:02:09.831Z",
       "isOnline": true
     }
   },
@@ -80,6 +80,14 @@
         "to": null,
         "text": "...",
         "time": "2025-10-06T14:38:00.146Z",
+        "isGlobal": true
+      },
+      {
+        "id": "mggif86fui7uyj8b8z",
+        "from": "[DEV] Sosochka",
+        "to": null,
+        "text": "Когда мы выпустим обновление, сервера будут сброшены",
+        "time": "2025-10-07T12:02:09.831Z",
         "isGlobal": true
       }
     ],
@@ -152,5 +160,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:01:54.553Z"
+  "lastUpdate": "2025-10-07T12:02:09.876Z"
 }
