@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-07T12:06:11.765Z",
+      "lastSeen": "2025-10-07T12:08:44.164Z",
       "isOnline": true
     }
   },
@@ -194,8 +194,16 @@
         "text": "Кстати, карту юмани мне уже по почте отправили. Где то в 20 числах придет)",
         "time": "2025-10-07T12:06:48.979Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgginofw25u4urn9hhoh",
+        "from": "FlamingOxygen",
+        "to": "[DEV] Sosochka",
+        "text": "Понятно",
+        "time": "2025-10-07T12:08:44.156Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:07:01.460Z"
+  "lastUpdate": "2025-10-07T12:08:44.176Z"
 }
