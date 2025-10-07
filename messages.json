@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-07T12:06:48.979Z",
+      "lastSeen": "2025-10-07T12:07:01.427Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -110,6 +110,14 @@
         "text": "Это и логично, ты все перелопатишь",
         "time": "2025-10-07T12:03:58.343Z",
         "isGlobal": true
+      },
+      {
+        "id": "mggilh6bs8vd1sncqsh",
+        "from": "[DEV] Sosochka",
+        "to": null,
+        "text": "Зайди в лс",
+        "time": "2025-10-07T12:07:01.427Z",
+        "isGlobal": true
       }
     ],
     "[BOT] > WayPoint_[DEV] Sosochka": [
@@ -189,5 +197,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-07T12:06:49.034Z"
+  "lastUpdate": "2025-10-07T12:07:01.460Z"
 }
