@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-07T12:11:14.723Z",
+      "lastSeen": "2025-10-08T11:20:32.745Z",
       "isOnline": true
     }
   },
@@ -290,8 +290,16 @@
         "text": "Доброе утро ебать",
         "time": "2025-10-07T23:09:47.331Z",
         "isGlobal": false
+      },
+      {
+        "id": "mghwdk2xm2li6lz1fz9",
+        "from": "FlamingOxygen",
+        "to": "[DEV] Sosochka",
+        "text": "Ксюшу?",
+        "time": "2025-10-08T11:20:32.745Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-07T23:09:47.364Z"
+  "lastUpdate": "2025-10-08T11:20:32.767Z"
 }
