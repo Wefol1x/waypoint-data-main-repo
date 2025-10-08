@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T11:52:53.866Z",
+      "lastSeen": "2025-10-08T11:54:05.410Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -322,8 +322,16 @@
         "text": "На конец змеева?",
         "time": "2025-10-08T11:53:36.974Z",
         "isGlobal": false
+      },
+      {
+        "id": "mghxkp2a1oyysmsxmyd",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Да",
+        "time": "2025-10-08T11:54:05.410Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T11:53:36.983Z"
+  "lastUpdate": "2025-10-08T11:54:05.442Z"
 }
