@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T14:20:02.189Z",
+      "lastSeen": "2025-10-08T14:20:44.024Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -346,8 +346,16 @@
         "text": "Кстати, надо потом будет добавить ответы, латы и прочие функции здесь в чатах",
         "time": "2025-10-08T14:20:02.189Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgi2ta47h5k1n7o6oug",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Ответы, даты, изменить и тд",
+        "time": "2025-10-08T14:20:44.024Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T14:20:02.207Z"
+  "lastUpdate": "2025-10-08T14:20:44.040Z"
 }
