@@ -19,6 +19,11 @@
       "name": "FlamingOxygen",
       "lastSeen": "2025-10-08T11:53:36.974Z",
       "isOnline": true
+    },
+    "Diadem": {
+      "name": "Diadem",
+      "lastSeen": "2025-10-08T17:43:39.122Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -404,8 +409,16 @@
         "text": "Зарегался?",
         "time": "2025-10-08T17:42:23.241Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgia28hdr16l3a9k3mh",
+        "from": "Diadem",
+        "to": "[DEV] Sosochka",
+        "text": "Да",
+        "time": "2025-10-08T17:43:39.121Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:42:23.262Z"
+  "lastUpdate": "2025-10-08T17:43:39.161Z"
 }
