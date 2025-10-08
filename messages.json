@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T16:40:34.280Z",
+      "lastSeen": "2025-10-08T16:40:51.367Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -370,8 +370,16 @@
         "text": "Уроки он блтяь делает",
         "time": "2025-10-08T16:40:34.280Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgi7th9ij4y489hmf8",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Безоценошный блять",
+        "time": "2025-10-08T16:40:51.366Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T16:40:34.296Z"
+  "lastUpdate": "2025-10-08T16:40:51.386Z"
 }
