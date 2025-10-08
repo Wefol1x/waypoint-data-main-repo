@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T17:30:26.571Z",
+      "lastSeen": "2025-10-08T17:42:17.167Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -387,7 +387,17 @@
         "time": "2025-10-08T16:40:51.366Z",
         "isGlobal": false
       }
+    ],
+    "Diadem_[DEV] Sosochka": [
+      {
+        "id": "mgia0h8q3q6ehdjdt74",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Никитос ты?",
+        "time": "2025-10-08T17:42:17.165Z",
+        "isGlobal": false
+      }
     ]
   },
-  "lastUpdate": "2025-10-08T17:30:26.585Z"
+  "lastUpdate": "2025-10-08T17:42:17.184Z"
 }
