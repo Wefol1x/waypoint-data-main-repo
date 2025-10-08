@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T11:21:37.111Z",
+      "lastSeen": "2025-10-08T11:52:53.866Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -306,8 +306,16 @@
         "text": "Да, прям на лицо...",
         "time": "2025-10-08T11:21:37.110Z",
         "isGlobal": false
+      },
+      {
+        "id": "mghxj5uw1ckq7vsz7g9",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Это наконец работает",
+        "time": "2025-10-08T11:52:53.866Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T11:21:37.139Z"
+  "lastUpdate": "2025-10-08T11:52:53.897Z"
 }
