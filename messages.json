@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-07T23:09:47.331Z",
+      "lastSeen": "2025-10-08T11:21:37.111Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -298,8 +298,16 @@
         "text": "Ксюшу?",
         "time": "2025-10-08T11:20:35.771Z",
         "isGlobal": false
+      },
+      {
+        "id": "mghwexqntgkpl5scff",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Да, прям на лицо...",
+        "time": "2025-10-08T11:21:37.110Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T11:20:36.139Z"
+  "lastUpdate": "2025-10-08T11:21:37.139Z"
 }
