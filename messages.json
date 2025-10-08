@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T17:51:46.513Z",
+      "lastSeen": "2025-10-08T17:52:00.706Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -529,8 +529,16 @@
         "text": "Слушай",
         "time": "2025-10-08T17:51:46.513Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgiaczia94r6jzuubqj",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "А что в итоге, мы идём в пиццерию на др твой?",
+        "time": "2025-10-08T17:52:00.706Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:51:46.534Z"
+  "lastUpdate": "2025-10-08T17:52:00.734Z"
 }
