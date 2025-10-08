@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T17:43:56.142Z",
+      "lastSeen": "2025-10-08T17:44:02.114Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -425,8 +425,16 @@
         "text": "Боя, помнишь мы мечтали об чате?",
         "time": "2025-10-08T17:43:56.142Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgia2q82gim935ac8j",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Своем",
+        "time": "2025-10-08T17:44:02.114Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:43:56.157Z"
+  "lastUpdate": "2025-10-08T17:44:02.134Z"
 }
