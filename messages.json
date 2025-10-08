@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T17:49:31.194Z",
+      "lastSeen": "2025-10-08T17:49:39.027Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -497,8 +497,16 @@
         "text": "Я много что хочу добавить",
         "time": "2025-10-08T17:49:31.194Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgia9y6r4gvgow7ec6m",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Это твой форум бро",
+        "time": "2025-10-08T17:49:39.027Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:49:31.217Z"
+  "lastUpdate": "2025-10-08T17:49:39.043Z"
 }
