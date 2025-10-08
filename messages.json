@@ -22,7 +22,7 @@
     },
     "Diadem": {
       "name": "Diadem",
-      "lastSeen": "2025-10-08T17:43:39.122Z",
+      "lastSeen": "2025-10-08T17:47:11.997Z",
       "isOnline": true
     }
   },
@@ -449,8 +449,16 @@
         "text": "Как тебе, нравиться начало?",
         "time": "2025-10-08T17:46:14.848Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgia6sqlsnewyvzpoz",
+        "from": "Diadem",
+        "to": "[DEV] Sosochka",
+        "text": "бля",
+        "time": "2025-10-08T17:47:11.997Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:46:14.874Z"
+  "lastUpdate": "2025-10-08T17:47:12.030Z"
 }
