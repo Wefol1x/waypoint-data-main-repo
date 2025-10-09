@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-09T16:04:14.921Z",
+      "lastSeen": "2025-10-09T16:04:30.010Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -585,8 +585,16 @@
         "text": "Да, скоро добавлю. Надо поработать с Android",
         "time": "2025-10-09T16:04:14.921Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgjlyksafimf3fwsn3t",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Так что с пицуей, я забыл что ты говортл",
+        "time": "2025-10-09T16:04:30.010Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-09T16:04:14.938Z"
+  "lastUpdate": "2025-10-09T16:04:30.065Z"
 }
