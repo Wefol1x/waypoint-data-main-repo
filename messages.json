@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-09T18:34:57.595Z",
+      "lastSeen": "2025-10-09T19:49:59.319Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -155,6 +155,19 @@
         "text": "Ждите будет три сочных фана про Ксюшу",
         "time": "2025-10-09T16:01:18.401Z",
         "isGlobal": true
+      },
+      {
+        "id": "mgju0k2f4a80wjvnqfr",
+        "from": "[DEV] Sosochka",
+        "to": null,
+        "text": "Test",
+        "time": "2025-10-09T19:49:59.319Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mgjlugxsby4zjxxfusi",
+          "sender": "[DEV] Sosochka",
+          "text": "Ждите будет три сочных фана про Ксюшу"
+        }
       }
     ],
     "[BOT] > WayPoint_[DEV] Sosochka": [
@@ -716,5 +729,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-09T18:34:57.623Z"
+  "lastUpdate": "2025-10-09T19:49:59.347Z"
 }
