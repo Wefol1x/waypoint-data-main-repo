@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-08T17:55:20.454Z",
+      "lastSeen": "2025-10-09T16:01:18.401Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -146,6 +146,14 @@
         "to": null,
         "text": "НА СЛЕДУЮЩЕЙ НЕДЕЛЕ ДЕЛАЕМ СБРОС СЕРВЕРОВ! ВСЕ АККАУНТЫ И СООБЩЕНИЯ УДАЛИТЬСЯ!!",
         "time": "2025-10-08T17:30:26.571Z",
+        "isGlobal": true
+      },
+      {
+        "id": "mgjlugxsby4zjxxfusi",
+        "from": "[DEV] Sosochka",
+        "to": null,
+        "text": "Ждите будет три сочных фана про Ксюшу",
+        "time": "2025-10-09T16:01:18.401Z",
         "isGlobal": true
       }
     ],
@@ -556,5 +564,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-08T17:55:20.477Z"
+  "lastUpdate": "2025-10-09T16:01:18.455Z"
 }
