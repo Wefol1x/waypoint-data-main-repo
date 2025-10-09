@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-09T18:34:46.823Z",
+      "lastSeen": "2025-10-09T18:34:57.595Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -705,8 +705,16 @@
         "text": "Окей",
         "time": "2025-10-09T18:34:46.823Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgjrc2ij0frdwk7dec4q",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Я дописал фанф про Ксюшу. Получилось три части",
+        "time": "2025-10-09T18:34:57.595Z",
+        "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-09T18:34:46.853Z"
+  "lastUpdate": "2025-10-09T18:34:57.623Z"
 }
