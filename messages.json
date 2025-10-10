@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-10T12:56:33.419Z",
+      "lastSeen": "2025-10-10T17:07:24.316Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -162,6 +162,19 @@
         "to": null,
         "text": "Test",
         "time": "2025-10-09T19:49:59.319Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mgjlugxsby4zjxxfusi",
+          "sender": "[DEV] Sosochka",
+          "text": "Ждите будет три сочных фана про Ксюшу"
+        }
+      },
+      {
+        "id": "mgl3nbq3ww90f4ocz9",
+        "from": "[DEV] Sosochka",
+        "to": null,
+        "text": "Test",
+        "time": "2025-10-10T17:07:24.315Z",
         "isGlobal": true,
         "replyTo": {
           "id": "mgjlugxsby4zjxxfusi",
@@ -747,5 +760,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-10T12:56:33.444Z"
+  "lastUpdate": "2025-10-10T17:07:24.345Z"
 }
