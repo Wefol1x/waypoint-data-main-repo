@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-10T11:37:54.548Z",
+      "lastSeen": "2025-10-10T12:56:33.419Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -735,8 +735,17 @@
         "time": "2025-10-10T11:37:54.547Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgkuoqdnm7bumj3iwlc",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Лайки на фанф отменяются, работают криво",
+        "time": "2025-10-10T12:56:33.419Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-10T11:37:54.568Z"
+  "lastUpdate": "2025-10-10T12:56:33.444Z"
 }
