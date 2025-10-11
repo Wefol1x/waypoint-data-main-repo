@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-10T17:07:24.316Z",
+      "lastSeen": "2025-10-11T08:20:21.246Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -757,8 +757,17 @@
         "time": "2025-10-10T12:56:33.419Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgm09dvi47vo670b6or",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Такое ощущение что ты вообще сюда не заходишь",
+        "time": "2025-10-11T08:20:21.246Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-10T17:07:24.345Z"
+  "lastUpdate": "2025-10-11T08:20:21.282Z"
 }
