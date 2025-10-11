@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-11T08:20:21.246Z",
+      "lastSeen": "2025-10-11T08:20:34.528Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -766,8 +766,17 @@
         "time": "2025-10-11T08:20:21.246Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgm09o4glis6d3oxubk",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "А я пиздец как стараюсь",
+        "time": "2025-10-11T08:20:34.528Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-11T08:20:21.282Z"
+  "lastUpdate": "2025-10-11T08:20:34.548Z"
 }
