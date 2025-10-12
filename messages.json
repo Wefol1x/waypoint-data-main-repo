@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-12T08:43:03.886Z",
+      "lastSeen": "2025-10-12T08:43:11.379Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -434,6 +434,15 @@
         "time": "2025-10-12T08:43:03.886Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgngilqrs9vd1h7rnff",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Карта юмани пришла",
+        "time": "2025-10-12T08:43:11.379Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "Diadem_[DEV] Sosochka": [
@@ -787,5 +796,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-12T08:43:03.910Z"
+  "lastUpdate": "2025-10-12T08:43:11.408Z"
 }
