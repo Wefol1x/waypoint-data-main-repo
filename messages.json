@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-11T08:20:34.528Z",
+      "lastSeen": "2025-10-12T08:43:03.886Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -425,6 +425,15 @@
         "text": "Безоценошный блять",
         "time": "2025-10-08T16:40:51.366Z",
         "isGlobal": false
+      },
+      {
+        "id": "mgngifylwm8oe7w3x2",
+        "from": "[DEV] Sosochka",
+        "to": "FlamingOxygen",
+        "text": "Все",
+        "time": "2025-10-12T08:43:03.886Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "Diadem_[DEV] Sosochka": [
@@ -778,5 +787,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-11T08:20:34.548Z"
+  "lastUpdate": "2025-10-12T08:43:03.910Z"
 }
