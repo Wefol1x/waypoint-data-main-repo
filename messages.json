@@ -22,7 +22,7 @@
     },
     "Diadem": {
       "name": "Diadem",
-      "lastSeen": "2025-10-13T17:26:33.683Z",
+      "lastSeen": "2025-10-13T17:26:34.469Z",
       "isOnline": true
     }
   },
@@ -804,14 +804,14 @@
         "replyTo": null
       },
       {
-        "id": "mgpenikzjcrx8oxv1j",
+        "id": "mgpenj6t7mlvf9yt18",
         "from": "Diadem",
         "to": "[DEV] Sosochka",
         "text": "привяу",
-        "time": "2025-10-13T17:26:33.683Z",
+        "time": "2025-10-13T17:26:34.469Z",
         "isGlobal": false
       }
     ]
   },
-  "lastUpdate": "2025-10-13T17:26:33.709Z"
+  "lastUpdate": "2025-10-13T17:26:34.718Z"
 }
