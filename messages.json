@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-14T16:49:24.079Z",
+      "lastSeen": "2025-10-14T16:49:42.515Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -888,8 +888,17 @@
         "time": "2025-10-14T16:49:24.079Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgqsrz3nmk1bk03rjx",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Сейчас сижу на новой версии пока что с уведомлениями повременим",
+        "time": "2025-10-14T16:49:42.515Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-14T16:49:24.107Z"
+  "lastUpdate": "2025-10-14T16:49:42.537Z"
 }
