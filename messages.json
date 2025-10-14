@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-14T16:49:42.515Z",
+      "lastSeen": "2025-10-14T16:50:05.080Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -897,8 +897,17 @@
         "time": "2025-10-14T16:49:42.515Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgqssgigw6dgae40upg",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Кстати мама разрешила завтра тебе прийти, не подведи сука",
+        "time": "2025-10-14T16:50:05.080Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-14T16:49:42.537Z"
+  "lastUpdate": "2025-10-14T16:50:05.108Z"
 }
