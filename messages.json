@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-14T12:45:36.606Z",
+      "lastSeen": "2025-10-14T12:46:23.778Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -836,8 +836,17 @@
         "time": "2025-10-14T12:45:36.606Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgqk32n6skrx0x0d1z",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "Когда ты в школу придешь, сервер сбросим",
+        "time": "2025-10-14T12:46:23.778Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-14T12:45:36.625Z"
+  "lastUpdate": "2025-10-14T12:46:24.048Z"
 }
