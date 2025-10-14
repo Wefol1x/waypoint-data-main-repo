@@ -12,7 +12,7 @@
     },
     "[DEV] Sosochka": {
       "name": "[DEV] Sosochka",
-      "lastSeen": "2025-10-14T16:48:47.488Z",
+      "lastSeen": "2025-10-14T16:49:10.666Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -870,8 +870,17 @@
         "time": "2025-10-14T16:48:47.488Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mgqsraixb0hjmx2pbis",
+        "from": "[DEV] Sosochka",
+        "to": "Diadem",
+        "text": "К сожелению на это я убью очень много времени и сил.",
+        "time": "2025-10-14T16:49:10.666Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-14T16:48:47.528Z"
+  "lastUpdate": "2025-10-14T16:49:10.689Z"
 }
